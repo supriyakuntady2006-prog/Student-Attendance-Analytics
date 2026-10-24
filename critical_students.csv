@@ -1,0 +1,22 @@
+roll_no,student_name,subject,total_classes,present,absent,excused,attendance_pct,status,classes_needed_75pct,last_present_date,consecutive_absences,Risk Score
+4MW24CS125,SAMEER ACHARYA,Data Science & GenAI - 3nd Yr - CSE - C,12,2,10,0,17%,Critical,28 more,2026-09-25,3,5.8
+4MW24CS133,SARGAM,Data Science & GenAI - 3nd Yr - CSE - C,12,3,9,0,25%,Critical,24 more,2026-09-25,3,5.4
+4MW24CS135,SATHWIK G KAMATH,Data Science & GenAI - 3nd Yr - CSE - C,12,8,4,0,67%,Critical,4 more,2026-10-07,1,2.2
+4MW24CS139,SHLOAG MAHESH BANT,Data Science & GenAI - 3nd Yr - CSE - C,12,6,6,0,50%,Critical,12 more,2026-10-07,1,3.0000000000000004
+4MW24CS141,SHRAVAN,Data Science & GenAI - 3nd Yr - CSE - C,12,8,4,0,67%,Critical,4 more,2026-10-07,1,2.2
+4MW24CS144,SHREEHARI SHENOY R,Data Science & GenAI - 3nd Yr - CSE - C,12,0,12,0,0%,Critical,36 more,Never,12,12.0
+4MW24CS146,SHREESHESHA G A,Data Science & GenAI - 3nd Yr - CSE - C,12,4,8,0,33%,Critical,20 more,2026-10-07,1,3.8000000000000003
+4MW24CS154,SHREYAS SATISH BHAT,Data Science & GenAI - 3nd Yr - CSE - C,12,8,4,0,67%,Critical,4 more,2026-10-09,0,1.6
+4MW24CS158,SINDHU,Data Science & GenAI - 3nd Yr - CSE - C,12,8,4,0,67%,Critical,4 more,2026-10-09,0,1.6
+4MW24CS165,SUNIL BHAT,Data Science & GenAI - 3nd Yr - CSE - C,11,5,6,0,45%,Critical,13 more,2026-10-07,1,3.0000000000000004
+4MW24CS167,SURAJ R,Data Science & GenAI - 3nd Yr - CSE - C,12,0,12,0,0%,Critical,36 more,Never,12,12.0
+4MW24CS169,SUSHAN S POOJARY,Data Science & GenAI - 3nd Yr - CSE - C,12,1,11,0,8%,Critical,32 more,2026-09-04,10,10.4
+4MW24CS170,SUSHANTH (SEETHARAMA ACHAR),Data Science & GenAI - 3nd Yr - CSE - C,12,8,4,0,67%,Critical,4 more,2026-10-09,0,1.6
+4MW24CS175,THEJAS B K,Data Science & GenAI - 3nd Yr - CSE - C,12,8,4,0,67%,Critical,4 more,2026-09-25,3,3.4
+4MW24CS177,UTHSAV N SHETTY,Data Science & GenAI - 3nd Yr - CSE - C,12,2,10,0,17%,Critical,28 more,2026-09-09,9,9.399999999999999
+4MW24CS182,VISHNU PRASAD,Data Science & GenAI - 3nd Yr - CSE - C,12,8,4,0,67%,Critical,4 more,2026-10-09,0,1.6
+4MW24CS900,RIYA SHETTY,Data Science & GenAI - 3nd Yr - CSE - C,12,7,5,0,58%,Critical,8 more,2026-10-09,0,2.0
+4MW25CS401,ANIRUDH,Data Science & GenAI - 3nd Yr - CSE - C,12,8,4,0,67%,Critical,4 more,2026-10-07,1,2.2
+4MW25CS407,SANATH S DEVADIGA,Data Science & GenAI - 3nd Yr - CSE - C,12,1,11,0,8%,Critical,32 more,2026-09-04,10,10.4
+4MW25CS408,SUSHANTH,Data Science & GenAI - 3nd Yr - CSE - C,12,1,11,0,8%,Critical,32 more,2026-09-04,10,10.4
+4MW25CS409,YASHVITH,Data Science & GenAI - 3nd Yr - CSE - C,12,0,12,0,0%,Critical,36 more,Never,12,12.0
